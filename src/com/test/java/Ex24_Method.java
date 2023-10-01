@@ -14,6 +14,7 @@ public class Ex24_Method {
 		String s1 = "홍길동";
 		String s2 = "아무개";
 		swap(s1,s2);
+		
 	}//main
 	
 	public static void swap(int a, int b) {
@@ -26,6 +27,7 @@ public class Ex24_Method {
 		b = temp;
 		
 		System.out.printf("a: %d, b: %d\n", a, b);
+		
 	}
 	
 	public static void swap(String s1, String s2) {
@@ -38,6 +40,7 @@ public class Ex24_Method {
 		s2 = temp;
 		
 		System.out.printf("s1: %s, s2: %s\n", s1, s2);
+		
 	}
 
 }

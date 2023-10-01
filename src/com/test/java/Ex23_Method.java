@@ -1,4 +1,5 @@
 //Ex23_Method.java
+package com.test.java;
 
 public class Ex23_Method {
 

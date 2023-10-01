@@ -1,5 +1,4 @@
 //Ex25_Method.java
-
 package com.test.java;
 
 public class Ex25_Method {
